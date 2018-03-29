@@ -1,0 +1,12 @@
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\bin\Debug\MigracionHyundai.exe.config
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\bin\Debug\MigracionHyundai.exe
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\bin\Debug\MigracionHyundai.pdb
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\bin\Debug\Dapper.dll
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\bin\Debug\Dapper.xml
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.csprojResolveAssemblyReference.cache
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.Form1.resources
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.Properties.Resources.resources
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.csproj.GenerateResource.Cache
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.csproj.CoreCompileInputs.cache
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.exe
+C:\Users\armando.iglesias\source\repos\MigracionHyundai\MigracionHyundai\obj\Debug\MigracionHyundai.pdb
