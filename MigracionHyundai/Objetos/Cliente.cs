@@ -12,6 +12,6 @@ namespace MigracionHyundai.Objetos
         public string nombre { get; set; }
         public string apellido { get; set; }
 
-        public string fullname { get;  }
+        //public string fullname { get { return this.nombre + " " + this.apellido } }
     }
 }

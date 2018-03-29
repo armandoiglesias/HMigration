@@ -15,6 +15,9 @@ namespace MigracionHyundai
         public Form1()
         {
             InitializeComponent();
+
+            dataGridView1.DataSource = new Modelo.Modelo().getClientes();
+            dataGridView1.Refresh();
         }
 
         private void button1_Click(object sender, EventArgs e)
